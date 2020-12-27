@@ -7,3 +7,9 @@ ReactDOM.render(
   <States />,
   document.getElementById('reactapp'),
 );
+ReactDOM.render(
+  <States />,
+  document.getElementById('reactapp'),
+
+ 
+);
